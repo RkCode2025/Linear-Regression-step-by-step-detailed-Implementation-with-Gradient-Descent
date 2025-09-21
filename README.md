@@ -5,7 +5,7 @@ It covers the fundamental concepts of supervised learning, cost function (MSE), 
 
 ---
 
-## 🚀 Features
+## Features
 - Generates a synthetic dataset for regression
 - Implements linear regression hypothesis function
 - Derives and applies **Mean Squared Error (MSE)** cost function
@@ -14,6 +14,3 @@ It covers the fundamental concepts of supervised learning, cost function (MSE), 
 - Step-by-step code walkthrough in a Jupyter Notebook
 
 ---
-
-## 📂 Project Structure
-
